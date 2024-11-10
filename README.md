@@ -18,6 +18,7 @@
 <img width="298" alt="image" src="https://github.com/user-attachments/assets/6776cd1c-eb36-43ec-b682-75c83f160b6c">
 <img width="303" alt="image" src="https://github.com/user-attachments/assets/d3543ca1-4c3d-43b7-b2c2-7d8cf50e01e2">
 
+<iframe width="2545" height="1097" src="https://www.youtube.com/embed/Lk9xxMedmyE" title="동양미래대학교 EL - 컴퓨터비전 AI를 이용한 손 재활 발달 플랫폼" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
