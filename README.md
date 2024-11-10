@@ -15,10 +15,10 @@
 - **지식재산권 출원 및 사업적 확장성**: 혁신적인 기술력과 독창성을 바탕으로 지식재산권 출원 가능성을 검토 중이며, 상용화 가능성에 대해 긍정적인 평가를 받을 것으로 기대됩니다.
 - **재활 치료의 접근성과 효율성 제고**: 누구나 손쉽게 접근할 수 있는 경제적 솔루션을 통해 재활 치료의 효율성을 높이고, 더 많은 사람들이 실질적인 혜택을 누릴 수 있는 플랫폼을 제공합니다.
 
-<img width="298" alt="image" src="https://github.com/user-attachments/assets/6776cd1c-eb36-43ec-b682-75c83f160b6c">
-<img width="303" alt="image" src="https://github.com/user-attachments/assets/d3543ca1-4c3d-43b7-b2c2-7d8cf50e01e2">
+### 데모 영상
+프로젝트의 주요 기능과 인터페이스는 아래 링크에서 확인할 수 있습니다.
 
-<iframe width="2545" height="1097" src="https://www.youtube.com/embed/Lk9xxMedmyE" title="동양미래대학교 EL - 컴퓨터비전 AI를 이용한 손 재활 발달 플랫폼" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![손 재활 및 발달 플랫폼 데모 영상](https://img.youtube.com/vi/Lk9xxMedmyE/0.jpg)](https://youtu.be/Lk9xxMedmyE)
 
 ---
 
