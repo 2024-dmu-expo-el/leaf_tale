@@ -1,5 +1,8 @@
 # 손 재활 및 발달 플랫폼
 
+<img width="1507" alt="image" src="https://github.com/user-attachments/assets/28b3caa6-1525-496f-b9bb-807f61f34e2a">
+<img width="1107" alt="image" src="https://github.com/user-attachments/assets/3278b4f4-e7f0-4a4a-8bba-48be3359ece4">
+
 ### 프로젝트 개요
 디지털 기기의 과도한 사용으로 인해 손의 소근육 발달이 지연되고 있다는 우려가 커지고 있습니다. 손과 손목의 활발한 사용은 일상생활뿐만 아니라 유아기 발달과 치매 예방에도 중요한 역할을 합니다. 기존 손 재활 도구들은 높은 가격과 낮은 맞춤성으로 인해 접근성이 제한되어 있습니다. 이를 해결하고자 **컴퓨터 비전 AI**를 활용하여 손의 움직임을 실시간으로 분석하고 손 기능 개선과 발달을 돕는 게임 기반의 손 재활 및 발달 플랫폼을 개발하였습니다.
 
@@ -19,6 +22,8 @@
 프로젝트의 주요 기능과 인터페이스는 아래 링크에서 확인할 수 있습니다.
 
 [![손 재활 및 발달 플랫폼 데모 영상](https://img.youtube.com/vi/Lk9xxMedmyE/0.jpg)](https://youtu.be/Lk9xxMedmyE)
+
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/9ea36774-c0bc-48cd-a3ef-c044eac2b03b">
 
 ---
 
