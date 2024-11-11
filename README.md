@@ -23,8 +23,8 @@ PW: password123
   <img src="https://github.com/user-attachments/assets/106144a5-4b6d-4f4c-bdb5-534289ac72df" alt="이미지3" style="width: 49%;">
   <img src="https://github.com/user-attachments/assets/dae54b40-036c-4bf2-9b1a-2dd86aa487a5" alt="이미지4" style="width: 49%;">
   <img src="https://github.com/user-attachments/assets/13845ece-69e7-49e4-ba13-5612282b926c" alt="이미지5" style="width: 49%;">
-  <img src="https://github.com/user-attachments/assets/915925e1-d7fc-4fc4-8f4e-0bf06d3f946b" alt="이미지6" style="width: 49%;">
-  <img src="https://github.com/user-attachments/assets/3560fdcb-8795-452a-ae3d-c5fef95b1b1e" alt="이미지7" style="width: 49%;">
+  <img src="https://github.com/user-attachments/assets/915925e1-d7fc-4fc4-8f4e-0bf06d3f946b" alt="이미지6" style="width: 100%;">
+  <img src="https://github.com/user-attachments/assets/3560fdcb-8795-452a-ae3d-c5fef95b1b1e" alt="이미지7" style="width: 100%;">
 
   <img src="https://github.com/user-attachments/assets/9725bebe-74d1-43d7-a424-36c06d16fa01" alt="이미지9" style="width: 49%;">
   <img src="https://github.com/user-attachments/assets/62b26449-c852-4929-838a-7d796c8b0ca0" alt="이미지10" style="width: 49%;">
