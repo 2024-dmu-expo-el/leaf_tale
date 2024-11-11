@@ -8,11 +8,11 @@ PW: password123
 
 | 제안서 | 파일 다운로드 |
 |--------|---------------|
-| 동양미래엑스포 제안서 | [240604_2024 동양미래EXPO.pdf](https://github.com/user-attachments/files/17699199/240604_2024.EXPO.pdf) |
-| 부산엑스포 제안서 | [2024 전문대 LINC3.0 캡스톤디자인 경진대회.pdf](https://github.com/user-attachments/files/17699160/2024.LINC3.0.pdf) |
-| MEDICAL HACK 해커톤 제안서 | [신청서류_MEDICAL HACK 2024 팀 EL.pdf](https://github.com/user-attachments/files/17699185/_MEDICAL.HACK.2024.EL.pdf) |
-| 작품 제작집 및 브로슈어 | [2024 동양미래EXPO 작품 제작집 및 브로슈어 내용.pdf](https://github.com/user-attachments/files/17699204/2024.EXPO.pdf) |
-| 작품 프레젠테이션 | [발표 ppt](https://bigfile.mail.naver.com/download?fid=cYnXFAIlbru/FAvwHqujaxtjKogZFAuwKxuwFquqFAvjKxbqKqvZaxula3YmaxFvp6iSKAC0Mobrp6pCpo+SpzMXFxumM6trMquwpg==) |
+| 동양미래엑스포 제안서 | [다운로드](https://github.com/user-attachments/files/17699199/240604_2024.EXPO.pdf) |
+| 부산엑스포 제안서 | [다운로드](https://github.com/user-attachments/files/17699160/2024.LINC3.0.pdf) |
+| MEDICAL HACK 해커톤 제안서 | [다운로드](https://github.com/user-attachments/files/17699185/_MEDICAL.HACK.2024.EL.pdf) |
+| 작품 제작집 및 브로슈어 | [다운로드](https://github.com/user-attachments/files/17699204/2024.EXPO.pdf) |
+| 작품 프레젠테이션 | [다운로드](https://bigfile.mail.naver.com/download?fid=cYnXFAIlbru/FAvwHqujaxtjKogZFAuwKxuwFquqFAvjKxbqKqvZaxula3YmaxFvp6iSKAC0Mobrp6pCpo+SpzMXFxumM6trMquwpg==) |
 
 <div style="display: flex;">
   <img width="1107" alt="image" src="https://github.com/user-attachments/assets/28b3caa6-1525-496f-b9bb-807f61f34e2a" style="width: 49%;">
