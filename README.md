@@ -25,8 +25,6 @@ PW: password123
   <img src="https://github.com/user-attachments/assets/915925e1-d7fc-4fc4-8f4e-0bf06d3f946b" alt="이미지6" style="width: 100%;">
   <img src="https://github.com/user-attachments/assets/41ec7eff-b777-45ba-836f-d869861bac7a" alt="이미지7" style="width: 100%;">
 
-  <!-- 두 번째 행 -->![제목 없는 동영상 - Clipchamp로 제작]()
-
   <img src="https://github.com/user-attachments/assets/3560fdcb-8795-452a-ae3d-c5fef95b1b1e" alt="이미지8" style="width: 100%;">
   <img src="https://github.com/user-attachments/assets/9725bebe-74d1-43d7-a424-36c06d16fa01" alt="이미지9" style="width: 100%;">
   <img src="https://github.com/user-attachments/assets/62b26449-c852-4929-838a-7d796c8b0ca0" alt="이미지10" style="width: 100%;">
