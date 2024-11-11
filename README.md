@@ -61,6 +61,9 @@ PW: password123
   <img src="https://github.com/user-attachments/assets/119f8bbc-f544-4486-9ba9-1f36e8245b54" alt="이미지8" style="width: 49%;">
 </div>
 
+![image](https://github.com/user-attachments/assets/b13275fd-63d1-4a0f-ba64-2726537db230)
+
+
 [🔗 **EL 소개 페이지 바로가기**](https://6730b8f08e6567ce78ca4793--el-page.netlify.app/)
 ---
 
