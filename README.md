@@ -15,7 +15,7 @@ PW: password123
 | 작품 프레젠테이션 | [발표 ppt](https://bigfile.mail.naver.com/download?fid=cYnXFAIlbru/FAvwHqujaxtjKogZFAuwKxuwFquqFAvjKxbqKqvZaxula3YmaxFvp6iSKAC0Mobrp6pCpo+SpzMXFxumM6trMquwpg==) |
 
 <div style="display: flex;">
-  <img width="1507" alt="image" src="https://github.com/user-attachments/assets/28b3caa6-1525-496f-b9bb-807f61f34e2a" style="width: 49%;">
+  <img width="1107" alt="image" src="https://github.com/user-attachments/assets/28b3caa6-1525-496f-b9bb-807f61f34e2a" style="width: 49%;">
   <img width="1107" alt="image" src="https://github.com/user-attachments/assets/3278b4f4-e7f0-4a4a-8bba-48be3359ece4" style="width: 49%;">
 </div>
 
