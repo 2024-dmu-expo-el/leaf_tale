@@ -1,10 +1,41 @@
 # 손 재활 및 발달 플랫폼
 
+[🔗 **현재 서비스중인 페이지**](http://43.203.0.69:8081/)
+ID: member1
+PW: password123
+
 <img width="1507" alt="image" src="https://github.com/user-attachments/assets/28b3caa6-1525-496f-b9bb-807f61f34e2a">
 <img width="1107" alt="image" src="https://github.com/user-attachments/assets/3278b4f4-e7f0-4a4a-8bba-48be3359ece4">
 
-[🔗 **EL 소개 페이지 바로가기**](https://6730b8f08e6567ce78ca4793--el-page.netlify.app/)
+| 제안서 | 파일 다운로드 |
+|--------|---------------|
+| 동양미래엑스포 제안서 | [240604_2024 동양미래EXPO.pdf](https://github.com/user-attachments/files/17699199/240604_2024.EXPO.pdf) |
+| 부산엑스포 제안서 | [2024 전문대 LINC3.0 캡스톤디자인 경진대회.pdf](https://github.com/user-attachments/files/17699160/2024.LINC3.0.pdf) |
+| MEDICAL HACK 해커톤 제안서 | [신청서류_MEDICAL HACK 2024 팀 EL.pdf](https://github.com/user-attachments/files/17699185/_MEDICAL.HACK.2024.EL.pdf) |
+| 작품 제작집 및 브로슈어 | [2024 동양미래EXPO 작품 제작집 및 브로슈어 내용.pdf](https://github.com/user-attachments/files/17699204/2024.EXPO.pdf) |
+| 작품 프레젠테이션 | [발표 ppt](https://bigfile.mail.naver.com/download?fid=cYnXFAIlbru/FAvwHqujaxtjKogZFAuwKxuwFquqFAvjKxbqKqvZaxula3YmaxFvp6iSKAC0Mobrp6pCpo+SpzMXFxumM6trMquwpg==) |
 
+<div style="display: grid; grid-template-columns: repeat(7, 1fr); gap: 10px;">
+
+  <!-- 첫 번째 행 -->
+  <img src="https://github.com/user-attachments/assets/d24e6f60-1bb9-421f-8a3c-1a85ce7ca571" alt="이미지1" style="width: 100%;">
+  <img src="https://github.com/user-attachments/assets/02bc0929-52e6-41ce-a83e-28113363b8a6" alt="이미지2" style="width: 100%;">
+  <img src="https://github.com/user-attachments/assets/106144a5-4b6d-4f4c-bdb5-534289ac72df" alt="이미지3" style="width: 100%;">
+  <img src="https://github.com/user-attachments/assets/dae54b40-036c-4bf2-9b1a-2dd86aa487a5" alt="이미지4" style="width: 100%;">
+  <img src="https://github.com/user-attachments/assets/13845ece-69e7-49e4-ba13-5612282b926c" alt="이미지5" style="width: 100%;">
+  <img src="이미지6_URL" alt="이미지6" style="width: 100%;">
+  <img src="이미지7_URL" alt="이미지7" style="width: 100%;">
+
+  <!-- 두 번째 행 -->
+  <img src="이미지8_URL" alt="이미지8" style="width: 100%;">
+  <img src="이미지9_URL" alt="이미지9" style="width: 100%;">
+  <img src="이미지10_URL" alt="이미지10" style="width: 100%;">
+  <img src="이미지11_URL" alt="이미지11" style="width: 100%;">
+  <img src="이미지12_URL" alt="이미지12" style="width: 100%;">
+  <img src="이미지13_URL" alt="이미지13" style="width: 100%;">
+  <img src="이미지14_URL" alt="이미지14" style="width: 100%;">
+
+</div>
 
 ### 프로젝트 개요
 디지털 기기의 과도한 사용으로 인해 손의 소근육 발달이 지연되고 있다는 우려가 커지고 있습니다. 손과 손목의 활발한 사용은 일상생활뿐만 아니라 유아기 발달과 치매 예방에도 중요한 역할을 합니다. 기존 손 재활 도구들은 높은 가격과 낮은 맞춤성으로 인해 접근성이 제한되어 있습니다. 이를 해결하고자 **컴퓨터 비전 AI**를 활용하여 손의 움직임을 실시간으로 분석하고 손 기능 개선과 발달을 돕는 게임 기반의 손 재활 및 발달 플랫폼을 개발하였습니다.
@@ -28,6 +59,7 @@
 
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/9ea36774-c0bc-48cd-a3ef-c044eac2b03b">
 
+[🔗 **EL 소개 페이지 바로가기**](https://6730b8f08e6567ce78ca4793--el-page.netlify.app/)
 ---
 
 ### 기술 스택
