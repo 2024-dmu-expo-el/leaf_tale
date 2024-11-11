@@ -5,8 +5,6 @@
 ID: member1
 PW: password123
 
-<img width="1507" alt="image" src="https://github.com/user-attachments/assets/28b3caa6-1525-496f-b9bb-807f61f34e2a">
-<img width="1107" alt="image" src="https://github.com/user-attachments/assets/3278b4f4-e7f0-4a4a-8bba-48be3359ece4">
 
 | 제안서 | 파일 다운로드 |
 |--------|---------------|
@@ -15,6 +13,11 @@ PW: password123
 | MEDICAL HACK 해커톤 제안서 | [신청서류_MEDICAL HACK 2024 팀 EL.pdf](https://github.com/user-attachments/files/17699185/_MEDICAL.HACK.2024.EL.pdf) |
 | 작품 제작집 및 브로슈어 | [2024 동양미래EXPO 작품 제작집 및 브로슈어 내용.pdf](https://github.com/user-attachments/files/17699204/2024.EXPO.pdf) |
 | 작품 프레젠테이션 | [발표 ppt](https://bigfile.mail.naver.com/download?fid=cYnXFAIlbru/FAvwHqujaxtjKogZFAuwKxuwFquqFAvjKxbqKqvZaxula3YmaxFvp6iSKAC0Mobrp6pCpo+SpzMXFxumM6trMquwpg==) |
+
+<div style="display: flex;">
+  <img width="1507" alt="image" src="https://github.com/user-attachments/assets/28b3caa6-1525-496f-b9bb-807f61f34e2a" style="width: 49%;">
+  <img width="1107" alt="image" src="https://github.com/user-attachments/assets/3278b4f4-e7f0-4a4a-8bba-48be3359ece4" style="width: 49%;">
+</div>
 
 <div style="display: flex; flex-wrap: wrap;">
   <!-- 첫 번째 행 -->
