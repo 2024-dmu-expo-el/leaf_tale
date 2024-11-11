@@ -38,6 +38,8 @@ PW: password123
 프로젝트의 주요 기능과 인터페이스는 아래 사진을 클릭하여 확인할 수 있습니다.
 
 [![손 재활 및 발달 플랫폼 데모 영상](https://img.youtube.com/vi/Lk9xxMedmyE/0.jpg)](https://youtu.be/Lk9xxMedmyE)
+[![손 재활 및 발달 플랫폼 데모 영상 - 유니티 화면](https://img.youtube.com/vi/ppTftjDRrrs/0.jpg)](https://youtu.be/ppTftjDRrrs)
+
 
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/9ea36774-c0bc-48cd-a3ef-c044eac2b03b">
 
