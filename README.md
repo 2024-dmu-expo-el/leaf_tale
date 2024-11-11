@@ -16,23 +16,23 @@ PW: password123
 | 작품 제작집 및 브로슈어 | [2024 동양미래EXPO 작품 제작집 및 브로슈어 내용.pdf](https://github.com/user-attachments/files/17699204/2024.EXPO.pdf) |
 | 작품 프레젠테이션 | [발표 ppt](https://bigfile.mail.naver.com/download?fid=cYnXFAIlbru/FAvwHqujaxtjKogZFAuwKxuwFquqFAvjKxbqKqvZaxula3YmaxFvp6iSKAC0Mobrp6pCpo+SpzMXFxumM6trMquwpg==) |
 
-<div style="display: flex;">
+<div style="display: flex; flex-wrap: wrap;">
   <!-- 첫 번째 행 -->
-  <img src="https://github.com/user-attachments/assets/d24e6f60-1bb9-421f-8a3c-1a85ce7ca571" alt="이미지1" style="width: 50%;">
-  <img src="https://github.com/user-attachments/assets/02bc0929-52e6-41ce-a83e-28113363b8a6" alt="이미지2" style="width: 50%;">
-  <img src="https://github.com/user-attachments/assets/106144a5-4b6d-4f4c-bdb5-534289ac72df" alt="이미지3" style="width: 50%;">
-  <img src="https://github.com/user-attachments/assets/dae54b40-036c-4bf2-9b1a-2dd86aa487a5" alt="이미지4" style="width: 50%;">
-  <img src="https://github.com/user-attachments/assets/13845ece-69e7-49e4-ba13-5612282b926c" alt="이미지5" style="width: 50%;">
-  <img src="https://github.com/user-attachments/assets/915925e1-d7fc-4fc4-8f4e-0bf06d3f946b" alt="이미지6" style="width: 50%;">
-  <img src="https://github.com/user-attachments/assets/3560fdcb-8795-452a-ae3d-c5fef95b1b1e" alt="이미지7" style="width: 50%;">
+  <img src="https://github.com/user-attachments/assets/d24e6f60-1bb9-421f-8a3c-1a85ce7ca571" alt="이미지1" style="width: 49%;">
+  <img src="https://github.com/user-attachments/assets/02bc0929-52e6-41ce-a83e-28113363b8a6" alt="이미지2" style="width: 49%;">
+  <img src="https://github.com/user-attachments/assets/106144a5-4b6d-4f4c-bdb5-534289ac72df" alt="이미지3" style="width: 49%;">
+  <img src="https://github.com/user-attachments/assets/dae54b40-036c-4bf2-9b1a-2dd86aa487a5" alt="이미지4" style="width: 49%;">
+  <img src="https://github.com/user-attachments/assets/13845ece-69e7-49e4-ba13-5612282b926c" alt="이미지5" style="width: 49%;">
+  <img src="https://github.com/user-attachments/assets/915925e1-d7fc-4fc4-8f4e-0bf06d3f946b" alt="이미지6" style="width: 49%;">
+  <img src="https://github.com/user-attachments/assets/3560fdcb-8795-452a-ae3d-c5fef95b1b1e" alt="이미지7" style="width: 49%;">
 
-  <img src="https://github.com/user-attachments/assets/9725bebe-74d1-43d7-a424-36c06d16fa01" alt="이미지9" style="width: 50%;">
-  <img src="https://github.com/user-attachments/assets/62b26449-c852-4929-838a-7d796c8b0ca0" alt="이미지10" style="width: 50%;">
-  <img src="https://github.com/user-attachments/assets/5e55f967-e803-4f69-abea-4d23d9a76664" alt="이미지11" style="width: 50%;">
-  <img src="https://github.com/user-attachments/assets/9d85ea05-7fee-479d-ac29-ab9a9834d519" alt="이미지12" style="width: 50%;">
-  <img src="https://github.com/user-attachments/assets/437381ae-59b8-4ae3-b562-959f44872c2a" alt="이미지13" style="width: 50%;">
-  <img src="https://github.com/user-attachments/assets/ad7b95ec-a74d-4f17-86ef-6f128316775b" alt="이미지14" style="width: 50%;">
-  <img src="https://github.com/user-attachments/assets/119f8bbc-f544-4486-9ba9-1f36e8245b54" alt="이미지8" style="width: 50%;">
+  <img src="https://github.com/user-attachments/assets/9725bebe-74d1-43d7-a424-36c06d16fa01" alt="이미지9" style="width: 49%;">
+  <img src="https://github.com/user-attachments/assets/62b26449-c852-4929-838a-7d796c8b0ca0" alt="이미지10" style="width: 49%;">
+  <img src="https://github.com/user-attachments/assets/5e55f967-e803-4f69-abea-4d23d9a76664" alt="이미지11" style="width: 49%;">
+  <img src="https://github.com/user-attachments/assets/9d85ea05-7fee-479d-ac29-ab9a9834d519" alt="이미지12" style="width: 49%;">
+  <img src="https://github.com/user-attachments/assets/437381ae-59b8-4ae3-b562-959f44872c2a" alt="이미지13" style="width: 49%;">
+  <img src="https://github.com/user-attachments/assets/ad7b95ec-a74d-4f17-86ef-6f128316775b" alt="이미지14" style="width: 49%;">
+  <img src="https://github.com/user-attachments/assets/119f8bbc-f544-4486-9ba9-1f36e8245b54" alt="이미지8" style="width: 49%;">
 </div>
 
 ### 프로젝트 개요
