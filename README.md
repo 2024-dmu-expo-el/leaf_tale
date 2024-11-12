@@ -66,7 +66,7 @@ PW: password123
 ![image](https://github.com/user-attachments/assets/b13275fd-63d1-4a0f-ba64-2726537db230)
 
 
-[🔗 **EL 소개 페이지 바로가기**](https://6730b8f08e6567ce78ca4793--el-page.netlify.app/)
+[🔗 **EL 소개 페이지 바로가기**](https://el-page.netlify.app/)
 ---
 
 ### 기술 스택
