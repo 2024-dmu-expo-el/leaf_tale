@@ -67,13 +67,13 @@ PW: password123
 
 [날아라 빗자루!](https://youtu.be/eUpXLGqR8mU?t=12)
 
-[달려라 고양이!](https://youtu.be/eUpXLGqR8mU)
+[달려라 고양이!](https://youtu.be/eUpXLGqR8mU?t=90)
 
-[울려라 오케스트라!](https://youtu.be/eUpXLGqR8mU)
+[울려라 오케스트라!](https://youtu.be/eUpXLGqR8mU?t=132)
 
-[그려라 마법진!](https://youtu.be/eUpXLGqR8mU)
+[그려라 마법진!](https://youtu.be/eUpXLGqR8mU?t=192)
 
-[뽑아라 마법채소!](https://youtu.be/eUpXLGqR8mU)
+[뽑아라 마법채소!](https://youtu.be/eUpXLGqR8mU?t=286)
 
 [🔗 **EL 소개 페이지 바로가기**](https://el-page.netlify.app/)
 ---
