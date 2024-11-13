@@ -65,11 +65,11 @@ PW: password123
 
 ![image](https://github.com/user-attachments/assets/b13275fd-63d1-4a0f-ba64-2726537db230)
 
-![날아라 빗자루! - ](https://youtu.be/eUpXLGqR8mU?t=12)
-![달려라 고양이!](https://youtu.be/eUpXLGqR8mU)
-![울려라 오케스트라!](https://youtu.be/eUpXLGqR8mU)
-![그려라 마법진!](https://youtu.be/eUpXLGqR8mU)
-![뽑아라 마법채소!](https://youtu.be/eUpXLGqR8mU)
+[날아라 빗자루! - ](https://youtu.be/eUpXLGqR8mU?t=12)
+[달려라 고양이!](https://youtu.be/eUpXLGqR8mU)
+[울려라 오케스트라!](https://youtu.be/eUpXLGqR8mU)
+[그려라 마법진!](https://youtu.be/eUpXLGqR8mU)
+[뽑아라 마법채소!](https://youtu.be/eUpXLGqR8mU)
 
 [🔗 **EL 소개 페이지 바로가기**](https://el-page.netlify.app/)
 ---
