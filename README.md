@@ -63,6 +63,7 @@ PW: password123
   <img src="https://github.com/user-attachments/assets/119f8bbc-f544-4486-9ba9-1f36e8245b54" alt="이미지8" style="width: 49%;">
 </div>
 
+### 게임 소개
 ![image](https://github.com/user-attachments/assets/b13275fd-63d1-4a0f-ba64-2726537db230)
 
 | 인게임 영상 바로가기 |  |
