@@ -43,7 +43,7 @@ PW: password123
 
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/9ea36774-c0bc-48cd-a3ef-c044eac2b03b">
 
-## 프로젝트 프레젠테이션
+### 프로젝트 프레젠테이션
 <div style="display: flex; flex-wrap: wrap;">
   <!-- 첫 번째 행 -->
   <img src="https://github.com/user-attachments/assets/d24e6f60-1bb9-421f-8a3c-1a85ce7ca571" alt="이미지1" style="width: 49%;">
@@ -65,15 +65,9 @@ PW: password123
 
 ![image](https://github.com/user-attachments/assets/b13275fd-63d1-4a0f-ba64-2726537db230)
 
-[날아라 빗자루!](https://youtu.be/eUpXLGqR8mU?t=12)
-
-[달려라 고양이!](https://youtu.be/eUpXLGqR8mU?t=90)
-
-[울려라 오케스트라!](https://youtu.be/eUpXLGqR8mU?t=132)
-
-[그려라 마법진!](https://youtu.be/eUpXLGqR8mU?t=192)
-
-[뽑아라 마법채소!](https://youtu.be/eUpXLGqR8mU?t=286)
+| [날아라 빗자루!](https://youtu.be/eUpXLGqR8mU?t=12) | [달려라 고양이!](https://youtu.be/eUpXLGqR8mU?t=90) |
+| [울려라 오케스트라!](https://youtu.be/eUpXLGqR8mU?t=132) | [그려라 마법진!](https://youtu.be/eUpXLGqR8mU?t=192) |
+| [뽑아라 마법채소!](https://youtu.be/eUpXLGqR8mU?t=286) | |
 
 [🔗 **EL 소개 페이지 바로가기**](https://el-page.netlify.app/)
 ---
