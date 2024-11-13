@@ -65,6 +65,8 @@ PW: password123
 
 ![image](https://github.com/user-attachments/assets/b13275fd-63d1-4a0f-ba64-2726537db230)
 
+| 인게임 영상 | 바로가기 |
+|--------|---------------|
 | [날아라 빗자루!](https://youtu.be/eUpXLGqR8mU?t=12) | [달려라 고양이!](https://youtu.be/eUpXLGqR8mU?t=90) |
 | [울려라 오케스트라!](https://youtu.be/eUpXLGqR8mU?t=132) | [그려라 마법진!](https://youtu.be/eUpXLGqR8mU?t=192) |
 | [뽑아라 마법채소!](https://youtu.be/eUpXLGqR8mU?t=286) | |
