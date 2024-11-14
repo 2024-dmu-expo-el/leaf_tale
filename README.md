@@ -37,9 +37,13 @@ PW: password123
 ### 데모 영상
 프로젝트의 주요 기능과 인터페이스는 아래를 클릭하여 확인할 수 있습니다.
 
-[![Watch on YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)](https://youtu.be/Lk9xxMedmyE) [손동작과 같이 나오는 게임 진행 영상](https://youtu.be/Lk9xxMedmyE)
+<a href="https://youtu.be/Lk9xxMedmyE">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="20" alt="Watch on YouTube">
+</a> [손동작과 같이 나오는 게임 진행 영상](https://youtu.be/Lk9xxMedmyE)
 
-[![Watch on YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)](https://youtu.be/eUpXLGqR8mU) [5개의 손 재활 게임 화면 영상](https://youtu.be/eUpXLGqR8mU)
+<a href="https://youtu.be/eUpXLGqR8mU">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="20" alt="Watch on YouTube">
+</a> [5개의 손 재활 게임 화면 영상](https://youtu.be/eUpXLGqR8mU)
 
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/9ea36774-c0bc-48cd-a3ef-c044eac2b03b">
 
