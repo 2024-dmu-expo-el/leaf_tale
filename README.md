@@ -58,8 +58,6 @@
 
 ## 프로젝트 프레젠테이션 📈
 
-<details>
-  <summary>🖼️ 이미지 모아보기 (펼치기)</summary>
   <!-- 첫 번째 행 -->
   <img src="https://github.com/user-attachments/assets/d24e6f60-1bb9-421f-8a3c-1a85ce7ca571" alt="이미지1" style="width: 100%;">
   <img src="https://github.com/user-attachments/assets/02bc0929-52e6-41ce-a83e-28113363b8a6" alt="이미지2" style="width: 100%;">
@@ -76,7 +74,6 @@
   <img src="https://github.com/user-attachments/assets/437381ae-59b8-4ae3-b562-959f44872c2a" alt="이미지13" style="width: 100%;">
   <img src="https://github.com/user-attachments/assets/ad7b95ec-a74d-4f17-86ef-6f128316775b" alt="이미지14" style="width: 100%;">
   <img src="https://github.com/user-attachments/assets/119f8bbc-f544-4486-9ba9-1f36e8245b54" alt="이미지8" style="width: 100%;">
-</details>
 
 ---
 
