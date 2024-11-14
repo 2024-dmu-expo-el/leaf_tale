@@ -35,10 +35,10 @@ PW: password123
 - **재활 치료의 접근성과 효율성 제고**: 누구나 손쉽게 접근할 수 있는 경제적 솔루션을 통해 재활 치료의 효율성을 높이고, 더 많은 사람들이 실질적인 혜택을 누릴 수 있는 플랫폼을 제공합니다.
 
 ### 데모 영상
-프로젝트의 주요 기능과 인터페이스는 아래 사진을 클릭하여 확인할 수 있습니다.
+프로젝트의 주요 기능과 인터페이스는 아래를 클릭하여 확인할 수 있습니다.
 
-[![손 재활 및 발달 플랫폼 데모 영상](https://img.youtube.com/vi/Lk9xxMedmyE/0.jpg)](https://youtu.be/Lk9xxMedmyE)
-[![손 재활 및 발달 플랫폼 데모 영상 - 유니티 화면](https://img.youtube.com/vi/ppTftjDRrrs/0.jpg)](https://youtu.be/ppTftjDRrrs)
+[손 재활 및 발달 플랫폼 데모 영상](https://youtu.be/Lk9xxMedmyE)
+[손 재활 및 발달 플랫폼 데모 영상 - 유니티 화면](https://youtu.be/ppTftjDRrrs)
 
 
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/9ea36774-c0bc-48cd-a3ef-c044eac2b03b">
