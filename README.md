@@ -37,15 +37,14 @@ PW: password123
 ### 데모 영상
 프로젝트의 주요 기능과 인터페이스는 아래를 클릭하여 확인할 수 있습니다.
 
-<iframe width="1887" height="816" src="https://www.youtube.com/embed/Lk9xxMedmyE" title="동양미래대학교 EL - 컴퓨터비전 AI를 이용한 손 재활 발달 플랫폼" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{ % include video id="Lk9xxMedmyE" provider="youtube" % }
 
-<iframe width="1887" height="816" src="https://www.youtube.com/embed/ppTftjDRrrs" title="컴퓨터 비전 AI 활용한 손발달 및 재활 운동 플랫폼 - 게임 영상" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/9ea36774-c0bc-48cd-a3ef-c044eac2b03b">
 
 ### 프로젝트 프레젠테이션
-<div style="display: flex; flex-wrap: wrap;">
+<details>
   <!-- 첫 번째 행 -->
   <img src="https://github.com/user-attachments/assets/d24e6f60-1bb9-421f-8a3c-1a85ce7ca571" alt="이미지1" style="width: 49%;">
   <img src="https://github.com/user-attachments/assets/02bc0929-52e6-41ce-a83e-28113363b8a6" alt="이미지2" style="width: 49%;">
@@ -62,7 +61,8 @@ PW: password123
   <img src="https://github.com/user-attachments/assets/437381ae-59b8-4ae3-b562-959f44872c2a" alt="이미지13" style="width: 49%;">
   <img src="https://github.com/user-attachments/assets/ad7b95ec-a74d-4f17-86ef-6f128316775b" alt="이미지14" style="width: 49%;">
   <img src="https://github.com/user-attachments/assets/119f8bbc-f544-4486-9ba9-1f36e8245b54" alt="이미지8" style="width: 49%;">
-</div>
+</details>
+
 
 ### 게임 소개
 ![image](https://github.com/user-attachments/assets/b13275fd-63d1-4a0f-ba64-2726537db230)
