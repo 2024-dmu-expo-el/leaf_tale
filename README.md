@@ -37,8 +37,15 @@
 
 ## 데모 영상 🎬
 
-- [![Play](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)](https://youtu.be/Lk9xxMedmyE) **손동작과 같이 나오는 게임 진행 영상**
-- [![Play](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)](https://youtu.be/eUpXLGqR8mU) **5개의 손 재활 게임 화면 영상**
+<a href="https://youtu.be/Lk9xxMedmyE">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="20" alt="Watch on YouTube">
+   손동작과 같이 나오는 게임 진행 영상
+</a>
+
+<a href="https://youtu.be/eUpXLGqR8mU">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="20" alt="Watch on YouTube">
+  5개의 손 재활 게임 화면 영상
+</a> 
 
 ---
 
