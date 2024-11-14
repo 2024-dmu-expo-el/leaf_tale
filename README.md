@@ -82,7 +82,6 @@ PW: password123
 - **게임 개발**: Unity, C#, LeapMotion SDK
 - **디자인**: Photoshop, Figma, Aseprite, Clip Studio Paint
 - **버전 관리 및 협업 툴**: Git, GitHub, Notion
-- 
 
 ---
 **contact**
