@@ -45,6 +45,7 @@ PW: password123
 
 ### 프로젝트 프레젠테이션
 <details>
+  <summary>펼쳐보기</summary>
   <!-- 첫 번째 행 -->
   <img src="https://github.com/user-attachments/assets/d24e6f60-1bb9-421f-8a3c-1a85ce7ca571" alt="이미지1" style="width: 49%;">
   <img src="https://github.com/user-attachments/assets/02bc0929-52e6-41ce-a83e-28113363b8a6" alt="이미지2" style="width: 49%;">
