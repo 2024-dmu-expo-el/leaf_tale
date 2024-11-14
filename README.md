@@ -14,6 +14,8 @@
 | **MEDICAL HACK 해커톤 제안서**  | [📄 다운로드](https://github.com/user-attachments/files/17699185/_MEDICAL.HACK.2024.EL.pdf) |
 | **작품 제작집 및 브로슈어**      | [📄 다운로드](https://github.com/user-attachments/files/17699204/2024.EXPO.pdf) |
 | **작품 프레젠테이션**            | [📄 다운로드](https://bigfile.mail.naver.com/download?fid=cYnXFAIlbru/FAvwHqujaxtjKogZFAuwKxuwFquqFAvjKxbqKqvZaxula3YmaxFvp6iSKAC0Mobrp6pCpo+SpzMXFxumM6trMquwpg==) |
+| **작품 프레젠테이션(pdf)**       | [📄 다운로드](https://github.com/user-attachments/files/17744424/_.-.pdf) |
+
 
 ---
 
