@@ -41,12 +41,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="20" alt="Watch on YouTube">
    손동작과 같이 나오는 게임 진행 영상
 </a>
-
+<br />
 <a href="https://youtu.be/ppTftjDRrrs">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="20" alt="Watch on YouTube">
    게임 진행 중 유니티 화면 영상
 </a>
-
+<br />
 <a href="https://youtu.be/eUpXLGqR8mU">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="20" alt="Watch on YouTube">
   5개의 손 재활 게임 화면 영상
