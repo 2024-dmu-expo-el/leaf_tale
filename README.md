@@ -37,8 +37,8 @@ PW: password123
 ### 데모 영상
 프로젝트의 주요 기능과 인터페이스는 아래를 클릭하여 확인할 수 있습니다.
 
-{ % include video id="Lk9xxMedmyE" provider="youtube" % }
-
+[![Watch on YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)](https://youtu.be/Lk9xxMedmyE)  
+[![Video Thumbnail](https://img.youtube.com/vi/Lk9xxMedmyE/0.jpg)](https://youtu.be/Lk9xxMedmyE)
 
 
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/9ea36774-c0bc-48cd-a3ef-c044eac2b03b">
