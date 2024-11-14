@@ -39,7 +39,7 @@
 
 ## 데모 영상 🎬
 
-<div style="margin: 0 auto; text-align: center;">
+<div style="width: 100%; margin: 0 auto; text-align: center;">
   
 <a href="https://youtu.be/Lk9xxMedmyE">
   <img src="https://img.youtube.com/vi/Lk9xxMedmyE/0.jpg" alt="손동작과 같이 나오는 게임 진행 영상">
