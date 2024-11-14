@@ -39,6 +39,8 @@
 
 ## 데모 영상 🎬
 
+<div style="margin: 0 auto; text-align: center;">
+  
 <a href="https://youtu.be/Lk9xxMedmyE">
   <img src="https://img.youtube.com/vi/Lk9xxMedmyE/0.jpg" alt="손동작과 같이 나오는 게임 진행 영상">
   <br>
@@ -59,6 +61,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="20" alt="Watch on YouTube">
   5개의 손 재활 게임 화면 영상
 </a> 
+
+</div>
 
 ---
 
