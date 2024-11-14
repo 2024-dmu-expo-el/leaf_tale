@@ -37,8 +37,8 @@ PW: password123
 ### 데모 영상
 프로젝트의 주요 기능과 인터페이스는 아래를 클릭하여 확인할 수 있습니다.
 
-[손 재활 및 발달 플랫폼 데모 영상](https://youtu.be/Lk9xxMedmyE)
-[손 재활 및 발달 플랫폼 데모 영상 - 유니티 화면](https://youtu.be/ppTftjDRrrs)
+<iframe width="1887" height="816" src="https://www.youtube.com/embed/Lk9xxMedmyE" title="동양미래대학교 EL - 컴퓨터비전 AI를 이용한 손 재활 발달 플랫폼" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1887" height="816" src="https://www.youtube.com/embed/ppTftjDRrrs" title="컴퓨터 비전 AI 활용한 손발달 및 재활 운동 플랫폼 - 게임 영상" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/9ea36774-c0bc-48cd-a3ef-c044eac2b03b">
